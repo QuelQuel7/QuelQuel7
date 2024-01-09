@@ -1,8 +1,10 @@
-![Tryhackme Badge](https://raw.githubusercontent.com/QuelQuel7/QuelQuel7/master/assets/thm_propic.png)
-
 <div id="badges">
   <a href= "https://www.linkedin.com/in/maciej-kucab-6a9a96254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href = "https://tryhackme.com/p/Kumpel7" >
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Kumpel7.png" alt="TryHackMe">
   </a>
 
 Hi! I am a physics student that found passion in IT and cybersecurity not so long ago! I upload here mosstly writeups for CTFs but I am also trying to write some scripts.
