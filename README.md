@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <a href = "https://tryhackme.com/p/Kumpel7">
  <script src="https://tryhackme.com/badge/2186421"></script>
-  </a>
 </div>
 
 <div id="badges">
