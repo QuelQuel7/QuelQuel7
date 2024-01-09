@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "Kumpel7"
+          node-version: 14
           GITHUB_TOKEN: ${{secrets.TOKENTOKEN}}
