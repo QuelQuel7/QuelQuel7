@@ -1,6 +1,4 @@
-<div id="header" align="center">
- <script src="https://tryhackme.com/badge/2186421"></script>
-</div>
+![tryhackme stats](https://raw.githubusercontent.com/QuelQuel7/QuelQuel7/master/assets/thm_propic.png)
 
 <div id="badges">
   <a href= "https://www.linkedin.com/in/maciej-kucab-6a9a96254/">
