@@ -4,7 +4,7 @@
   </a>
 
   <a href = "https://tryhackme.com/p/Kumpel7" >
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Kumpel7.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Kumpel7.png" alt="TryHackMe">
   </a>
 
 
